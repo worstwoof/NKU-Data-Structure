@@ -1,0 +1,24 @@
+﻿  test_binary.cpp
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(22,62): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(22,62): warning C4267:         with
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(22,62): warning C4267:         [
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(22,62): warning C4267:             _Ty=int
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(22,62): warning C4267:         ]
+  (编译源文件“test_binary.cpp”)
+  
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(91,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test_binary.cpp”)
+  
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(149,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test_binary.cpp”)
+  
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(158,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test_binary.cpp”)
+  
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(202,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test_binary.cpp”)
+  
+E:\code\c++\比较KMP算法和BM算法性能\比较KMP算法和BM算法性能\algorithms.hpp(203,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“test_binary.cpp”)
+  
+  比较KMP算法和BM算法性能.vcxproj -> E:\code\c++\比较KMP算法和BM算法性能\x64\Debug\比较KMP算法和BM算法性能.exe
